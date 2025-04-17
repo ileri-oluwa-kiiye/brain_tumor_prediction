@@ -29,7 +29,7 @@ MRI scan images with corresponding labels for tumor classification. Data was pro
 
 The final model achieved:
 
-- **Accuracy**: `0.97` on the private leaderboard
+- **Accuracy**: `0.986` on the private leaderboard
 - **Evaluation Metric**: F1 Score (harmonic mean of precision and recall)
 
 ## Submission Format
